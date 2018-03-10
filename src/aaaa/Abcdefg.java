@@ -6,7 +6,7 @@ public class Abcdefg {
 		System.out.println("abcdefg");
    
 	   int i =8;	
-		
+		int takgorspkg  =5;
 	}
 
 }
