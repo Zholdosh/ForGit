@@ -3,10 +3,13 @@ package aaaa;
 public class Abcdefg {
 
 	public static void main(String[] args) {
-		System.out.println("abcdefg");
+		
    
-	   int i =8;	
+	   int j =8;	
 		int takgorspkg  =5;
+		for(int i = 0; i< takgorspkg; i++){
+			System.out.println(i+". abcdefg");
+		}
 	}
 
 }
